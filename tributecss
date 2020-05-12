@@ -1,0 +1,20 @@
+#image
+{
+    max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+
+h3
+{
+  text-align:center;
+  padding: 50px;
+  margin:16px 0px;
+}
+li
+{
+  max-width:550px;
+  text-align:left;
+  margin-left:auto auto auto auto;
+}
